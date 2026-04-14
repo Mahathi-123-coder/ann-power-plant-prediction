@@ -65,17 +65,19 @@ The dataset contains the following features:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
+```
 ann-power-plant-prediction/
 │
 ├── ann_power_plant_prediction.ipynb
 ├── powerplant_data.csv
 ├── README.md
+```
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 * Hyperparameter tuning
 * Comparing ANN with other ML models
@@ -83,7 +85,7 @@ ann-power-plant-prediction/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Mahathi
 
