@@ -37,7 +37,7 @@ The dataset contains the following features:
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 * Input Layer
 * Hidden Layer 1: 6 neurons (ReLU)
@@ -46,7 +46,7 @@ The dataset contains the following features:
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 * **Mean Squared Error (MSE) for test data :** 19.5
 * **R² Score:** 0.9316
